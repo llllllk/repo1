@@ -1,4 +1,3 @@
 hjjkhjkhjkhj
 branch
-<<<<<<< HEAD
 modified
